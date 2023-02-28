@@ -87,23 +87,7 @@
             ""
          ]
       },
-      {
-         "tag":"python_is_best",
-         "patterns":[
-            "Which is the best programming language?",
-            "Can you tell me the best language ever?",
-            "What language can I start for programming",
-            "Is Python language an awesome language?",
-            "I am a beginner and I need to learn a new language"
-         ],
-         "responses":[
-            "Without a doubt, Python is the most BEAUTIFUL language ever! You can start learning it anytime",
-            "I am a fan of Python. It's my favorite ever. If you don't believe me, try it yourself"
-         ],
-         "context":[
-            ""
-         ]
-      },
+     
       {
          "tag":"joke",
          "patterns":[
